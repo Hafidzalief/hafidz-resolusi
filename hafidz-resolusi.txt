@@ -2,3 +2,5 @@ HAFIDZ RESOLISI
 - Konsisten untuk belajar web programming 2x sehari
 - Membuat platform untuk menyimpan codingan
 - Membuat forum diskusi
+- Membuat project baru
+- Kolaborasi dengan partner
