@@ -4,3 +4,4 @@ RENCANA CODING HAFIDZ
   * Framework Javascript
 - Java
 - Python
+- Fullstack development
