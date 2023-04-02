@@ -3,7 +3,9 @@ RENCANA CODING HAFIDZ
   * Dasar 
   * Framework Javascript
     - Angular
+    - Vue
     - React
+- Java
 - Python
 - PHP Framework
   * Laravel
