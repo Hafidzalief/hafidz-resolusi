@@ -4,3 +4,4 @@ HAFIDZ RESOLISI
 - Membuat forum diskusi
 - Kolaborasi dengan partner
 - Membuat dokumentasi
+- Mereview materi
